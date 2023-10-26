@@ -1,0 +1,4 @@
+1. Pastikan python sudah terinstall di laptop
+2. Buka cmd di dalam folder water potability
+3. jalankan perintah : pip install -r requirements.txt
+4. jalankan perintah : python -m streamlit run app.py
